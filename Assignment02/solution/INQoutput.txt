@@ -1,0 +1,2 @@
+N	p	Queue type	Avg PD		Std Dev of PD		Avg link utilisation	
+8	0.5	INQ		1.9702		1.11315		0.49325

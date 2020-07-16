@@ -1,0 +1,2 @@
+N	p	Queue type	Avg PD		Std Dev of PD		Avg link utilisation	
+8	0.5	ISLIP		1.66231		1.1436		0.501163
