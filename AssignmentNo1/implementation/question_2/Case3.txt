@@ -1,0 +1,4 @@
+Average response time for passengers : 0.286187
+Average number of passengers getting inspected.: 0.858561
+Average time for which a passenger has to wait : 0.21464
+Average number of passengers waiting in queue : 0.643921

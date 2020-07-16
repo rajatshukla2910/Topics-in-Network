@@ -1,0 +1,4 @@
+Avg  of cust. in system :0.818398
+Average response time for passengers :0.272799
+Average time for which a passenger has to wait:0.0227993
+Average number of passengers waiting in queue:0.068398
